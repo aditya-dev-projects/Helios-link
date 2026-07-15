@@ -1,4 +1,4 @@
-# ⚡ HELIOS-LINK v3.0
+# ⚡ HELIOS-LINK 
 **Physics-Based Space-Based Solar Power (SBSP) Engineering Simulation Platform**
 
 <!-- ![Helios-Link Banner](public/sun.jpg) *(Illustration)* -->
